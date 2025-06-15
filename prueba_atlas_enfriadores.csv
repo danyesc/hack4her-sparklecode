@@ -1,4 +1,0 @@
-id_enfriador,tipo_dispositivo,latitud,longitud,probabilidad_falla,temperatura_c,voltaje_v,ultima_actualizacion,necesita_mantenimiento,estado_atlas
-ENF_NYC_001,m5go-iot,40.7128,-74.0060,0.92,8.2,12.4,2025-05-20T14:35:22Z,urgente,verificado
-ENF_LA_002,m5go-iot,34.0522,-118.2437,0.18,4.1,11.9,2025-05-20T14:33:45Z,ok,verificado
-ENF_CHI_003,m5go-iot,41.8781,-87.6298,0.65,6.7,12.1,2025-05-20T14:34:18Z,alerta,verificado
